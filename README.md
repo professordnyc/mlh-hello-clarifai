@@ -16,7 +16,7 @@ This project was created as part of the MLH Global Hack Week 2025 Clarifai Chall
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mlh-hello-clarifai.git
+   git clone https://github.com/professordnyc/mlh-hello-clarifai.git
    cd mlh-hello-clarifai
    ```
 
